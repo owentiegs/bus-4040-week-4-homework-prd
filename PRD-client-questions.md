@@ -10,4 +10,4 @@ Have you ever had a speaker cancel an event after the agenda was already publish
 
 
 ## 3.
-Tell me about how you built your most recent schedule? Did you prefer a grid layout?
+Tell me about how you built your most recent schedule? Did you prefer a grid or list layout?
