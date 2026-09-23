@@ -147,12 +147,3 @@ Deferred to a later release, or not planned:
 - A mobile app.
 - Integration with other CBE or university systems.
 
-## Open Questions (for week 5)
-
-- If a schedule gives only a last name, or a person's title and employer change between years, how does the client decide who is the same person?
-- Should a person who was listed but didn't present (cancelled or replaced) count as a past speaker?
-- Do logistics and social items (buses, meals, hospitality suites, tours) matter for search and analysis, or only as part of the full schedule?
-- When a session is shared by the EEC and the Summit, which program does it belong to for reporting?
-- How are multi-part classes (such as Richland followed by DC) related, and does the client think of them as one event or several?
-- Who will maintain the data after handoff, and how comfortable are they with technical tools?
-- What does a finished schedule need to look like when it's shared with participants? Is the grid or the list layout preferred?
